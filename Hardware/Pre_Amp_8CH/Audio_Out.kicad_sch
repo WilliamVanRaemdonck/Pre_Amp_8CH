@@ -2,7 +2,952 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "f561a702-9995-4425-95b9-599fc18bae8e")
+	(uuid "d49ab68b-fd4a-4b8b-8c6b-adc91185527d")
 	(paper "A4")
-	(lib_symbols)
+	(lib_symbols
+		(symbol "Pre_Amp_8CH_Symbols:PJRAS4X2U01AUX"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 1.27 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "PJRAS4X2U01AUX"
+				(at 1.27 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "Pre_Amp_8CH_Footprints:PJRAS4X2U01AUX"
+				(at 21.59 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.switchcraft.com/assets/1/24/pjras4x2u__x_series_cd.pdf?4683"
+				(at 21.59 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder"
+				(at 36.83 0.508 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "27"
+				(at 21.59 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "502-PJRAS4X2U01AUX"
+				(at 21.59 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Switchcraft/PJRAS4X2U01AUX?qs=mcPJWgAPNrcm869EbXbltg%3D%3D"
+				(at 21.59 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Switchcraft"
+				(at 21.59 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "PJRAS4X2U01AUX"
+				(at 21.59 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "PJRAS4X2U01AUX_0_1"
+				(polyline
+					(pts
+						(xy 10.16 -3.81) (xy 12.192 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -8.89) (xy 12.192 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 10.922 -3.302)
+					(mid 12.9221 -2.0016)
+					(end 14.478 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 14.478 -3.81)
+					(mid 12.922 -5.6179)
+					(end 10.922 -4.318)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 10.922 -8.382)
+					(mid 12.9221 -7.0816)
+					(end 14.478 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 14.478 -8.89)
+					(mid 12.922 -10.6979)
+					(end 10.922 -9.398)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 12.7 -3.81)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -5.588) (xy 12.7 -6.985)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 12.7 -8.89)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -11.43) (xy 12.7 -10.668)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 35.56 -3.81) (xy 37.592 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 35.56 -8.89) (xy 37.592 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 36.322 -3.302)
+					(mid 38.3221 -2.0016)
+					(end 39.878 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 39.878 -3.81)
+					(mid 38.322 -5.6179)
+					(end 36.322 -4.318)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 36.322 -8.382)
+					(mid 38.3221 -7.0816)
+					(end 39.878 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 39.878 -8.89)
+					(mid 38.322 -10.6979)
+					(end 36.322 -9.398)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 38.1 -3.81)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -5.588) (xy 38.1 -6.985)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 38.1 -8.89)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 38.1 -11.43) (xy 38.1 -10.668)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 60.96 -3.81) (xy 62.992 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 60.96 -8.89) (xy 62.992 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 61.722 -3.302)
+					(mid 63.7221 -2.0016)
+					(end 65.278 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 65.278 -3.81)
+					(mid 63.722 -5.6179)
+					(end 61.722 -4.318)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 61.722 -8.382)
+					(mid 63.7221 -7.0816)
+					(end 65.278 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 65.278 -8.89)
+					(mid 63.722 -10.6979)
+					(end 61.722 -9.398)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 63.5 -3.81)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 63.5 -5.588) (xy 63.5 -6.985)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 63.5 -8.89)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 63.5 -11.43) (xy 63.5 -10.668)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 86.36 -3.81) (xy 88.392 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 86.36 -8.89) (xy 88.392 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 87.122 -3.302)
+					(mid 89.1221 -2.0016)
+					(end 90.678 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 90.678 -3.81)
+					(mid 89.122 -5.6179)
+					(end 87.122 -4.318)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 87.122 -8.382)
+					(mid 89.1221 -7.0816)
+					(end 90.678 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 90.678 -8.89)
+					(mid 89.122 -10.6979)
+					(end 87.122 -9.398)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 88.9 -3.81)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 88.9 -5.588) (xy 88.9 -6.985)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 88.9 -8.89)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 88.9 -11.43) (xy 88.9 -10.668)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "PJRAS4X2U01AUX_1_1"
+				(pin passive line
+					(at 6.35 -3.81 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -8.89 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -16.51 90)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -3.81 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 31.75 -8.89 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 38.1 -16.51 90)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 57.15 -3.81 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 57.15 -8.89 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 63.5 -16.51 90)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 82.55 -3.81 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T41"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 82.55 -8.89 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T42"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 88.9 -16.51 90)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "Pre_Amp_8CH_Symbols:PJRAS4X2U01AUX")
+		(at 38.1 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d28910a9-8038-4c5f-9e28-4537a87c9b72")
+		(property "Reference" "J2"
+			(at 39.37 35.052 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PJRAS4X2U01AUX"
+			(at 46.482 37.338 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Pre_Amp_8CH_Footprints:PJRAS4X2U01AUX"
+			(at 59.69 133.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.switchcraft.com/assets/1/24/pjras4x2u__x_series_cd.pdf?4683"
+			(at 59.69 233.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder"
+			(at 74.93 37.592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "27"
+			(at 59.69 433.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "502-PJRAS4X2U01AUX"
+			(at 59.69 533.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Switchcraft/PJRAS4X2U01AUX?qs=mcPJWgAPNrcm869EbXbltg%3D%3D"
+			(at 59.69 633.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Switchcraft"
+			(at 59.69 733.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PJRAS4X2U01AUX"
+			(at 59.69 833.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "T11"
+			(uuid "b7536865-a0e1-4e08-b6cf-081aa56d9fc5")
+		)
+		(pin "T21"
+			(uuid "be6120b2-0141-4585-92fc-d5b98228abf0")
+		)
+		(pin "T22"
+			(uuid "9aab76d0-9ded-4192-b0b6-bbb6013b8cbd")
+		)
+		(pin "S2"
+			(uuid "48fc089a-4a1a-4fdc-ae77-4b69f0cc7c7d")
+		)
+		(pin "T31"
+			(uuid "6e998817-db25-4bf6-b033-be413699275d")
+		)
+		(pin "S3"
+			(uuid "02e84670-f0ce-452d-8a22-18f70424a7a8")
+		)
+		(pin "T41"
+			(uuid "c4783f36-ac24-4fa0-bff7-19d23871c4cf")
+		)
+		(pin "T32"
+			(uuid "8a3184f1-3924-469a-883e-7823ff59d4d8")
+		)
+		(pin "S4"
+			(uuid "f8e5a009-a68e-4988-a031-c61d0cb5031a")
+		)
+		(pin "T12"
+			(uuid "7e4e91db-b052-46af-b418-0de9720fd477")
+		)
+		(pin "S1"
+			(uuid "a22d1feb-5e1a-468e-84aa-e7c6da9831f7")
+		)
+		(pin "T42"
+			(uuid "e5bcb4c0-6562-4ca5-968a-0d4710c764f0")
+		)
+		(instances
+			(project "Pre_Amp_8CH"
+				(path "/95391f5e-c27a-414f-9293-205fef445dea/45d7762c-a846-43dd-9c78-69cecc0e82eb"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
 )
