@@ -5,6 +5,66 @@
 	(uuid "95391f5e-c27a-414f-9293-205fef445dea")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 148.59 106.68) (xy 152.4 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0852d81f-9a47-4e1f-b30e-5c102efa300e")
+	)
+	(wire
+		(pts
+			(xy 152.4 71.12) (xy 148.59 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45370390-08ae-4765-ba49-d9eb8a25ad99")
+	)
+	(wire
+		(pts
+			(xy 149.86 73.66) (xy 152.4 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d7777ad-ea11-4acd-baa8-6819277dc739")
+	)
+	(wire
+		(pts
+			(xy 152.4 104.14) (xy 149.86 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b79c51bd-14ba-4f31-9130-1ea8f1d2da5a")
+	)
+	(wire
+		(pts
+			(xy 148.59 71.12) (xy 148.59 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c091ed84-4b5b-41f4-a321-e09edb81072f")
+	)
+	(wire
+		(pts
+			(xy 149.86 104.14) (xy 149.86 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e791e722-65f4-46f7-a734-06f188a01a0d")
+	)
 	(sheet
 		(at 228.6 25.4)
 		(size 38.1 50.8)
@@ -165,6 +225,26 @@
 				(justify left top)
 			)
 		)
+		(pin "I2C_SCL" input
+			(at 152.4 71.12 180)
+			(uuid "3fd80ecb-e8eb-4127-b97e-a89140e2b541")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 152.4 73.66 180)
+			(uuid "3de4afde-fa4e-49c2-86bf-17c2759f77de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea"
@@ -205,6 +285,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "I2C_SCL" output
+			(at 152.4 106.68 180)
+			(uuid "657eda02-2678-447e-b148-354a28aba447")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 152.4 104.14 180)
+			(uuid "ff00cba5-e2a4-47b3-86e7-3a4f118a36ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances

@@ -189,6 +189,7 @@
       "track_widths": [
         0.0,
         0.254,
+        0.3,
         0.5,
         1.0
       ],
@@ -493,7 +494,24 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "+3V3": "rgb(255, 85, 0)",
+      "/Audio_DSP/I2C_SCL": "rgb(66, 255, 0)",
+      "/Audio_DSP/I2C_SDA": "rgb(66, 255, 0)",
+      "/Audio_In/IN1L": "rgb(0, 253, 255)",
+      "/Audio_In/IN1R": "rgb(0, 253, 255)",
+      "/Audio_In/IN2L": "rgb(0, 253, 255)",
+      "/Audio_In/IN2R": "rgb(0, 253, 255)",
+      "/Audio_In/IN3L": "rgb(0, 253, 255)",
+      "/Audio_In/IN3R": "rgb(0, 253, 255)",
+      "/Audio_In/IN4L": "rgb(0, 253, 255)",
+      "/Audio_In/IN4R": "rgb(0, 253, 255)",
+      "/PSU/CC1": "rgb(210, 210, 210)",
+      "/PSU/CC2": "rgb(210, 210, 210)",
+      "/PSU/VBUS": "rgb(255, 0, 4)",
+      "GNDA": "rgb(159, 159, 159)",
+      "GNDD": "rgb(159, 159, 159)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },

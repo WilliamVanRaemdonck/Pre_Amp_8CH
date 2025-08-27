@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "164d423e-4323-4a1f-9109-df525ca269b5")
+	(uuid "13bbe4a4-d74e-4710-bb85-7e0a59b2822e")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Pre_Amp_8CH_Symbols:PJRAS4X2U01AUX"
@@ -1123,7 +1123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ebde751-825e-49ff-ac25-7e760774473a")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR0301"
 			(at 50.8 64.77 0)
 			(effects
 				(font
@@ -1173,7 +1173,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/6f33af91-558f-4906-ad66-170a43f0e6d3"
-					(reference "#PWR01")
+					(reference "#PWR0301")
 					(unit 1)
 				)
 			)
@@ -1188,7 +1188,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5caf7199-d0b1-4994-9d8f-72fa82684c47")
-		(property "Reference" "J1"
+		(property "Reference" "J301"
 			(at 39.37 35.052 0)
 			(effects
 				(font
@@ -1322,7 +1322,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/6f33af91-558f-4906-ad66-170a43f0e6d3"
-					(reference "J1")
+					(reference "J301")
 					(unit 1)
 				)
 			)
@@ -1338,7 +1338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acd2ec3e-ccd2-4e83-8d76-0b98a8d6cccf")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR0302"
 			(at 76.2 64.77 0)
 			(effects
 				(font
@@ -1388,7 +1388,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/6f33af91-558f-4906-ad66-170a43f0e6d3"
-					(reference "#PWR02")
+					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
@@ -1404,7 +1404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2f1ee94-1784-43d2-b9fa-70ef49d33087")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR0304"
 			(at 127 64.77 0)
 			(effects
 				(font
@@ -1454,7 +1454,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/6f33af91-558f-4906-ad66-170a43f0e6d3"
-					(reference "#PWR04")
+					(reference "#PWR0304")
 					(unit 1)
 				)
 			)
@@ -1470,7 +1470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "feb6ba2c-4109-49a7-8f24-acbe32472aa7")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR0303"
 			(at 101.6 64.77 0)
 			(effects
 				(font
@@ -1520,7 +1520,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/6f33af91-558f-4906-ad66-170a43f0e6d3"
-					(reference "#PWR03")
+					(reference "#PWR0303")
 					(unit 1)
 				)
 			)

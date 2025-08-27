@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "d49ab68b-fd4a-4b8b-8c6b-adc91185527d")
+	(uuid "207378f8-4a58-4004-9b88-2e178d54d317")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Pre_Amp_8CH_Symbols:PJRAS4X2U01AUX"
@@ -810,7 +810,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d28910a9-8038-4c5f-9e28-4537a87c9b72")
-		(property "Reference" "J2"
+		(property "Reference" "J401"
 			(at 39.37 35.052 0)
 			(effects
 				(font
@@ -944,7 +944,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/45d7762c-a846-43dd-9c78-69cecc0e82eb"
-					(reference "J2")
+					(reference "J401")
 					(unit 1)
 				)
 			)

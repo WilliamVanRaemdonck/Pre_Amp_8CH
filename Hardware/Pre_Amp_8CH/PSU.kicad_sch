@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "f357e583-250b-47a1-bde4-39b9aab016d9")
+	(uuid "1766586e-2bc4-4035-bc6f-ff54a61b3c8b")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_PowerOnly_6P"
@@ -821,7 +821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62a0db85-4931-4ef7-9392-c3390ea2964f")
-		(property "Reference" "R2"
+		(property "Reference" "R202"
 			(at 91.44 66.0399 0)
 			(effects
 				(font
@@ -875,7 +875,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/a5767999-db98-4724-8c72-273c259d6263"
-					(reference "R2")
+					(reference "R202")
 					(unit 1)
 				)
 			)
@@ -891,7 +891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65183fa7-add0-487a-8001-8f349f8650ff")
-		(property "Reference" "J3"
+		(property "Reference" "J201"
 			(at 48.26 33.02 0)
 			(effects
 				(font
@@ -958,7 +958,7 @@
 		(instances
 			(project ""
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/a5767999-db98-4724-8c72-273c259d6263"
-					(reference "J3")
+					(reference "J201")
 					(unit 1)
 				)
 			)
@@ -974,7 +974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d177804-b112-4604-bbfe-c3a8290f40e6")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR0202"
 			(at 48.26 82.55 0)
 			(effects
 				(font
@@ -1024,7 +1024,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/a5767999-db98-4724-8c72-273c259d6263"
-					(reference "#PWR06")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -1040,7 +1040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "811b95e4-4186-4700-8af3-7697e256d83e")
-		(property "Reference" "R1"
+		(property "Reference" "R201"
 			(at 78.74 66.0399 0)
 			(effects
 				(font
@@ -1094,7 +1094,7 @@
 		(instances
 			(project ""
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/a5767999-db98-4724-8c72-273c259d6263"
-					(reference "R1")
+					(reference "R201")
 					(unit 1)
 				)
 			)
@@ -1110,7 +1110,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6911108-f1e4-4630-b24b-5c69f9018787")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR0204"
 			(at 88.9 82.55 0)
 			(effects
 				(font
@@ -1160,7 +1160,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/a5767999-db98-4724-8c72-273c259d6263"
-					(reference "#PWR08")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -1176,7 +1176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5a23129-da86-467c-8d44-b1c86a86bdb3")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR0203"
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -1226,7 +1226,7 @@
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/a5767999-db98-4724-8c72-273c259d6263"
-					(reference "#PWR07")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -1242,7 +1242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3d05eb0-b8ca-4684-aaab-e269f0a60abf")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR0201"
 			(at 40.64 82.55 0)
 			(effects
 				(font
@@ -1292,7 +1292,7 @@
 		(instances
 			(project ""
 				(path "/95391f5e-c27a-414f-9293-205fef445dea/a5767999-db98-4724-8c72-273c259d6263"
-					(reference "#PWR05")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
