@@ -245,6 +245,96 @@
 				(justify left)
 			)
 		)
+		(pin "BICKI" input
+			(at 152.4 27.94 180)
+			(uuid "7c5ee47a-62cd-4128-a264-3a603f4dff02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EAPD" output
+			(at 152.4 63.5 180)
+			(uuid "4bd66f5a-31c5-444d-a04a-ef98af0ac9d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LRCKI" input
+			(at 152.4 30.48 180)
+			(uuid "c7b75b6b-eab1-4aa1-95b8-ff3ee90aad40")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "POWER_ON_RESET" input
+			(at 152.4 60.96 180)
+			(uuid "e3a4da25-55be-4ee2-a755-f7ab6fa74893")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWDN" input
+			(at 152.4 58.42 180)
+			(uuid "c55e709b-c2b8-4662-9409-33469844b1da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDATA_IN_12" input
+			(at 152.4 33.02 180)
+			(uuid "7a081e9a-b878-423d-9f86-ab75600e8e3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDATA_IN_34" input
+			(at 152.4 35.56 180)
+			(uuid "4021a7e5-8ae0-41a3-b30e-643aa56c2ae5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDATA_IN_56" input
+			(at 152.4 38.1 180)
+			(uuid "dfb265c9-12de-4fdf-aa19-afbc0da475ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDATA_IN_78" input
+			(at 152.4 40.64 180)
+			(uuid "250a6f00-b6e1-4f65-b9c9-6f422247fd44")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "Pre_Amp_8CH"
 				(path "/95391f5e-c27a-414f-9293-205fef445dea"
