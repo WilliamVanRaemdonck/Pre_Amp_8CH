@@ -1,4 +1,4 @@
-25599337876589867
+25604607087781098
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90188,12 +90188,33 @@ Potentiometer vertical vishay
 3
 3
 Pre_Amp_8CH_Footprints
+CP_Wurth_WCAP-ASLL-D4L5.5
+Aluminum Electrolytic Capacitors Low Impedance & Long Life +105 °C, body x4x5.5mm, https://www.we-online.com/en/components/products/WCAP-ASLL#/articles/WCAP_ASLL_SIZE_4
+SMT
+0
+2
+2
+Pre_Amp_8CH_Footprints
+INDPM7366X300N
+7.30mm x 6.60mm
+Inductor
+0
+2
+2
+Pre_Amp_8CH_Footprints
 PJRAS4X2U01AUX
 PJRAS4X2U01AUX-4
 Connector
 0
 12
 12
+Pre_Amp_8CH_Footprints
+QFN50P900X900X100-65N
+64-pin QFN
+Integrated Circuit
+0
+65
+65
 Pre_Amp_8CH_Footprints
 QFP50P1200X1200X160-64N
 LQFP, 10 X 10 X 1.4 PKG, 0.5 PITCH, 64LD

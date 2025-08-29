@@ -682,6 +682,22 @@
     [
       "d6a277db-4d71-4fbb-b925-b5d946deee9e",
       "Controller"
+    ],
+    [
+      "9b7c76f7-db25-4cc8-b5d0-0600eff33975",
+      "Input_Buffer_IN12"
+    ],
+    [
+      "c5915b69-433d-4aa1-b812-5b2a29b50098",
+      "Input_Buffer_IN34"
+    ],
+    [
+      "2733fe07-b5e8-4442-9114-ac9852eed114",
+      "Input_Buffer_IN56"
+    ],
+    [
+      "17549614-f5d7-45c1-97ab-edff43c37afd",
+      "Input_Buffer_IN78"
     ]
   ],
   "text_variables": {}
